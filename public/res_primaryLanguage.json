@@ -11,8 +11,8 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
+        "title": "301 Final Project Placeholder",
+        "startDate": "2023",
         "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
@@ -35,46 +35,52 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Bark Buddies",
+        "startDate": "2023",
+        "description": "Final Project for Foundations of Software Development at Code Fellows. The vision of this app is to help dog lovers find a play date for their dogs by using an easy, efficient app. Many dog owners want to find a play date for their dog but don't know much people in their local area. This app is to fix that problem and help connect dog owners together in their local area. I was responsible for developing the match algorithm, including a the creation of a fictitious 'dog database' for users to match with. I also developed the local storage and match rendering for the application.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/bark-buddies/teamDogPhoto.jpeg",
+          "images/portfolio/bark-buddies/bark-buddies-home.png",
+          "images/portfolio/bark-buddies/bark-buddies-form.png",
+          "images/portfolio/bark-buddies/bark-buddies-match.png"
         ],
-        "url": "https://github.com",
+        "url": "https://bark-buddies.github.io/Bark-Buddies/",
         "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Salmon Cookies",
+        "startDate": "2023",
+        "description": "One of the first apps I was working on during Foundations of Software Development at Code Fellows. I built a web app with the purpose of helping with the branding of a Salmon Cookie business and help with internal sales data management. The public-facing website includes the brand's color scheme, fonts, branded images, and key information for each location. For the internal sales data, I built it to be adaptable and able to add and remove locations from the daily projections report. To do this, the application utilizes the DOM and allows the data to be dynamically called. This was a great learning experience!",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/salmon-cookies/salmon-cookies-home.png",
+          "images/portfolio/salmon-cookies/salmon-cookies-sales.png"
         ],
-        "url": "https://github.com",
+        "url": "https://rhettchase.github.io/code-201-lab-06-cookie-stand/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           }
         ]
       }
