@@ -11,8 +11,8 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
+        "title": "301 Final Project Placeholder",
+        "startDate": "2023",
         "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
@@ -35,22 +35,26 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Bark Buddies",
+        "startDate": "2023",
+        "description": "Final Project for Foundations of Software Development at Code Fellows. The vision of this app is to help dog lovers find a play date for their dogs by using an easy, efficient app. Many dog owners want to find a play date for their dog but don't know much people in their local area. This app is to fix that problem and help connect dog owners together in their local area. I was responsible for developing the match algorithm, including a the creation of a fictitious 'dog database' for users to match with. I also developed the local storage and match rendering for the application.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/bark-buddies/teamDogPhoto.jpeg",
+          "images/portfolio/bark-buddies/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://bark-buddies.github.io/Bark-Buddies/",
         "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           }
         ]
       },
