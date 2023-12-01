@@ -1,3 +1,5 @@
-# Modify this portfolio
+# Rhett Chase's Portfolio
 
-Make it your own! 
+# Links
+
+- [Deployed Site](https://rhett-chase-portfolio.netlify.app/)
