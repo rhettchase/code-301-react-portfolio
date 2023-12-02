@@ -19,12 +19,12 @@ class App extends Component {
   }
 
   applyPickedLanguage = (pickedLanguage, oppositeLangIconId) => {
-    this.swapCurrentlyActiveLanguage(oppositeLangIconId);
+    // this.swapCurrentlyActiveLanguage(oppositeLangIconId);
     document.documentElement.lang = pickedLanguage;
-    var resumePath =
-      document.documentElement.lang === window.$primaryLanguage
-        ? `res_primaryLanguage.json`
-        : `res_secondaryLanguage.json`;
+    var resumePath = `res_primaryLanguage.json`
+      // document.documentElement.lang === window.$primaryLanguage
+      //   ? `res_primaryLanguage.json`
+      //   : `res_secondaryLanguage.json`;
     this.loadResumeFromPath(resumePath);
   }
 

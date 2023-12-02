@@ -87,18 +87,16 @@
   ],
   "experience": [
     {
-      "company": "DefOpenSource",
-      "title": "Front-End Developer",
-      "years": "10.2019 - present",
+      "company": "Code Fellows",
+      "title": "Student",
+      "years": "10.2023 - present",
       "mainTech": [
-        "Angular 8/9/10"
+        "Python", "Javascript"
       ],
       "technologies": [
-        "REST API",
         "RxJS",
-        "JavaScript",
         "Bootstrap",
-        "MDBootstrap",
+        "CSS",
         "EF Core",
         ".NET Core",
         "SignalR",
