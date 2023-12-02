@@ -96,26 +96,83 @@
       "technologies": [
         "RxJS",
         "Bootstrap",
+        "MongoDB",
+        "MVC",
+        "Express.JS",
+        "NextJS",
+        "Django",
+        "Services and RESTful APIs",
+        "AJAX",
+        "Auth0",
+        "MatPlotLib",
+        "Plotly",
+        "Docker",
+        "Numpy",
+        "Pandas",
+        "Scikit-Learn",
         "CSS",
-        "EF Core",
-        ".NET Core",
-        "SignalR",
-        "Angular Material"
+        "SQL",
+        "JSON and 3rd-party APIs"
       ]
     },
     {
-      "company": "Serros Solutions",
-      "title": "Intern",
-      "years": "01.2018 - 09.2019",
+      "company": "EY-Parthenon",
+      "title": "Management Consultant (Director, Sr. Consultant, Intern)",
+      "years": "05.2017 - 06.2023",
       "mainTech": [
-        "Angular 7/8"
+        "Problem-solving",
+        "Data Analytics",
+        "Project Management"
       ],
       "technologies": [
-        "RxJS",
-        "Django",
-        "PHP",
-        "JavaScript",
-        "DHTMLX Gantt"
+        "Team Leadership",
+        "Strategy & Operations",
+        "Financial Analysis",
+        "Client Management"
+      ]
+    },
+    {
+      "company": "Rice University",
+      "title": "Master of Business Administration (MBA)",
+      "years": "08.2016 - 05.2018",
+      "mainTech": [
+        "Problem-solving",
+        "Strategy"
+      ],
+      "technologies": [
+        "Operations",
+        "Financial Analysis",
+        "Project Management"
+      ]
+    },
+    {
+      "company": "United States Air Force",
+      "title": "Air Force Officer (Captain, 1st Lieutenant, 2nd Lieutenant",
+      "years": "08.2016 - 05.2018",
+      "mainTech": [
+        "Team Leadership",
+        "Contract Negotiation for Space Systems",
+        "Interpretation of Technical Requirements"
+      ],
+      "technologies": [
+        "Operations",
+        "Financial Analysis",
+        "Project Management"
+      ]
+    },
+    {
+      "company": "United States Air Force Academy",
+      "title": "Bachelor of Science in Business Management",
+      "years": "06.2004 - 05.2008",
+      "mainTech": [
+        "Team Leadership",
+        "Contract Negotiation for Space Systems",
+        "Interpretation of Technical Requirements"
+      ],
+      "technologies": [
+        "Operations",
+        "Financial Analysis",
+        "Project Management"
       ]
     }
   ]
