@@ -6,12 +6,17 @@ body[data-theme="dark"] {
       background-color: #8C8C8C;
    }
 
+   #home {
+      background-image: url(../../../public/images/themes/background-concrete.png);
+      background-size: cover;
+   }
+
    .title-styles {
       color: white;
    }
 
    .header-icon {
-      color: #3C342C;
+      color: whitesmoke;
       opacity: 0.8;
    }
 
@@ -24,6 +29,15 @@ body[data-theme="dark"] {
    }
 
    .link-href {
+      color: white;
+   }
+
+   #header-component {
+      background-image: url(../../../public/images/themes/background-geo.png);
+      background-size: cover;
+   }
+
+   .title-container {
       color: white;
    }
 
@@ -40,29 +54,29 @@ body[data-theme="dark"] {
    }
 
    #about {
-      background-color: #7f7f7f;
+      background-color: #596D8F;
       h1 span {
          color: white;
       }
       .polaroid span {
-         background:  #6d6d6d;
+         background:  #4B525C
       }
       .card {
-         background: #6d6d6d;
+         background: #4B525C;
          color: white;
       }
    }
 
    #portfolio {
-      background: #5b5b5b;
+      background: #4B525C;
       .section-title {
          color: white !important;
       }
       .foto div {
-         background: #6d6d6d;
+         background: whitesmoke
       }
       .project-title-settings {
-         color: white;
+         color: #4B525C;;
       }
    }
 
@@ -74,12 +88,12 @@ body[data-theme="dark"] {
       }
 
       .experience-badge {
-         background: #919191 !important;
+         background: #111F3B !important;
          color: white;
       }
 
       .main-badge {
-         background: #919191 !important;
+         background: #111F3B !important;
       }
 
       .vertical-timeline-element-date {

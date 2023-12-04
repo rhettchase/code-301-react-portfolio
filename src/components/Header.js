@@ -23,6 +23,8 @@ class Header extends Component {
     var newTheme =
       body.getAttribute(dataThemeAttribute) === "dark" ? "light" : "dark";
     body.setAttribute(dataThemeAttribute, newTheme);
+
+    
   }
 
   render() {
@@ -36,6 +38,7 @@ class Header extends Component {
     }, (props, prevProp) => true);
 
     return (
+      <section id="header-component">
       <header id="home" style={{ height: window.innerHeight - 100, display: 'block' }}>
         <a href="https://github.com/codefellows/cra-template-react-portfolio" target="_blank" rel="noreferrer" className="github-corner" aria-label="View source on GitHub">
           <svg width="90" height="90" viewBox="0 0 250 250" style={{ fill: '#151513', color: '#fff', position: 'absolute', top: 0, border: 0, left: 0, transform: 'scale(-1, 1)', zIndex: 9999 }} aria-hidden="true">
@@ -100,8 +103,8 @@ class Header extends Component {
         </Nav>
         <div className="row aligner" style={{height: '100%'}}>
           <div className="col-md-12">
-            <div>
-              <span className="iconify header-icon" data-icon="la:laptop-code" data-inline="false"></span>
+            <div className="header-container">
+              <span className="iconify header-icon" data-icon="la:laptop-code" data-inline="false" ></span>
               <br/>
               <h1 className="mb-0">
                 {name}
@@ -114,6 +117,7 @@ class Header extends Component {
           </div>
         </div>
       </header>
+      </section>
     );
   }
 }

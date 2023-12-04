@@ -1,6 +1,6 @@
 @import '/src/scss/themes/theme-dark.scss';
 @import '/src/scss/themes/theme-light.scss';
-@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700;800&family=Righteous&family=Roboto:wght@400;900&display=swap');
 
 html {
 	font-size: 62.5%;
@@ -20,7 +20,7 @@ html {
 }
 
 .title-styles {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 250%;
 }
 
@@ -38,7 +38,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-color: #C1C7D3;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -66,7 +66,7 @@ header .nav {
 
 .project-date {
 	font-size: 16px;
-	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-family: 'Roboto', Tahoma, Geneva, Verdana, sans-serif;
 	padding: 8px 15px 2px 15px;
 	position: relative;
 	z-index: -500;
@@ -86,7 +86,7 @@ header .nav {
 
 .language {
 	font-size: 25px;
-	background-color: #e9d5a1;
+	background-color: #C1C7D3;
 	padding-bottom: 10px;
 	padding-top: 80px;
 }
@@ -96,7 +96,7 @@ header h1 {
 	text-align: center;
 	font-weight: 600 !important;
 	color: #353239;
-	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-family: 'Montserrat', 'Roboto', 'Arial Narrow', Arial, sans-serif;
 	margin: 0 auto 18px auto;
 	width: 100%;
 }
@@ -120,7 +120,7 @@ header h1 {
 }
 
 #about {
-	background: #fff;
+	background: #DEE3E9;
 	overflow: hidden;
 }
 
@@ -213,7 +213,7 @@ header h1 {
 }
 
 .font-trebuchet {
-	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	font-family: 'Montserrat','Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 #preview {
@@ -231,7 +231,7 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background: #C1C7D3;
 }
 
 .experience-icon {
@@ -265,6 +265,8 @@ header h1 {
 .vertical-timeline-element-date {
 	padding: 0 !important;
 	margin: 0 !important;
+	color: #111F3B;
+	font-size: 13px;
 }
 
 @media only screen and (max-width: 1170px) {
@@ -353,7 +355,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background: #DEE3E9;
 	padding-bottom: 5%;
 }
 
@@ -376,7 +378,7 @@ header h1 {
 }
 
 .portfolio .portfolio-item .portfolio-item-caption .portfolio-item-caption-content {
-	font-size: 1.5rem;
+	font-size: 2rem;
 }
 
 @media (min-width: 576px) {
@@ -389,7 +391,7 @@ header h1 {
 }
 
 #skills {
-	background: #1F1F1F;
+	background: #111F3B;
 	min-height: 200px;
 	width: 100%;
 	overflow: hidden;
@@ -402,7 +404,7 @@ header h1 {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
-	color: #fff;
+	color: #111F3B;
 	text-align: center;
 }
 
@@ -414,7 +416,7 @@ header h1 {
 }
 
 footer {
-	background: #1F1F1F;
+	background: #111F3B;
 	min-height: 100px;
 	width: 100%;
 	overflow: hidden;
